@@ -1,0 +1,5 @@
+# appcenterAPKTest
+Testing app size after building MSAppCenter
+
+Hello! I want to do an experiment where I can get the smallest APK file size after building the application.
+AppCenter Build without hermes,enableSeparateBuildPerCPUArchitecture,enableSeparateBuildPerCPUArchitecture:
